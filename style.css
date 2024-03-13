@@ -1,3 +1,68 @@
 body{
     background-color: rgb(7, 252, 88);
 }
+
+h1{
+    color: black;
+    font-size: 64pt;
+    font-weight: bolder;
+}
+
+h2{
+    color: rgb(128, 10, 10);
+    font-size: 64pt;
+    font-weight: bolder;
+    margin-left: 50px;
+}
+    
+
+h3{
+    color: rgb(0, 155, 155);
+    font-size: 64pt;
+    font-weight: bolder;
+    margin-left: 100px;
+}
+     
+
+h4{
+    color: rgb(46, 0, 211);
+    font-size: 64pt;
+    font-weight: bolder;
+    margin-left: 150px;
+}
+     
+
+
+h5{
+    color: rgb(247, 0, 247);
+    font-size: 64pt;
+    font-weight: bolder;
+    margin-left: 200px;
+}
+   
+
+
+
+h6{
+    color: rgb(250, 250, 250);
+    font-size: 64pt;
+    font-weight: bolder; 
+    margin-left: 250px;
+}
+
+    
+
+
+
+p{
+    color: aquamarine;
+    font-size: 64pt;
+    font-weight: bolder;
+    margin-left: 300px;
+}
+}
+    
+
+
+
+
