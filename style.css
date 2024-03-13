@@ -7,6 +7,8 @@ h1{
     font-size: 64pt;
     font-weight: bolder;
     border: 5px solid #920000;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #beb9b9;
 }
 
 h2{
@@ -15,6 +17,8 @@ h2{
     font-weight: bolder;
     margin-left: 50px;
     border: 5px solid #beb9b9;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #beb9b9;
 }
 
     
@@ -25,7 +29,10 @@ h3{
     font-weight: bolder;
     margin-left: 100px;
     border: 5px solid #2e18a7;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #beb9b9;
 }
+
 
      
 
@@ -35,7 +42,11 @@ h4{
     font-weight: bolder;
     margin-left: 150px;
     border: 5px solid #4aff25;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #beb9b9;
 }
+
+
 
      
 
@@ -46,7 +57,10 @@ h5{
     font-weight: bolder;
     margin-left: 200px;
     border: 5px solid #ff00f2;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #beb9b9;
 }
+
 
    
 
@@ -58,7 +72,10 @@ h6{
     font-weight: bolder; 
     margin-left: 250px;
     border: 5px solid #f78181;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #beb9b9;
 }
+
 
 
     
@@ -71,7 +88,10 @@ p{
     font-weight: bolder;
     margin-left: 300px;
     border: 5px solid #fffb00;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px #beb9b9;
 }
+
 
 
     
