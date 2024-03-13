@@ -6,49 +6,60 @@ h1{
     color: black;
     font-size: 64pt;
     font-weight: bolder;
+    border: 5px solid #920000;
 }
 
 h2{
     color: rgb(128, 10, 10);
-    font-size: 64pt;
+    font-size: 54pt;
     font-weight: bolder;
     margin-left: 50px;
+    border: 5px solid #beb9b9;
 }
+
     
 
 h3{
     color: rgb(0, 155, 155);
-    font-size: 64pt;
+    font-size: 44pt;
     font-weight: bolder;
     margin-left: 100px;
+    border: 5px solid #2e18a7;
 }
+
      
 
 h4{
-    color: rgb(46, 0, 211);
-    font-size: 64pt;
+    color: rgb(36, 0, 211);
+    font-size: 30pt;
     font-weight: bolder;
     margin-left: 150px;
+    border: 5px solid #4aff25;
 }
+
      
 
 
 h5{
     color: rgb(247, 0, 247);
-    font-size: 64pt;
+    font-size: 24pt;
     font-weight: bolder;
     margin-left: 200px;
+    border: 5px solid #ff00f2;
 }
+
    
 
 
 
 h6{
     color: rgb(250, 250, 250);
-    font-size: 64pt;
+    font-size: 14pt;
     font-weight: bolder; 
     margin-left: 250px;
+    border: 5px solid #f78181;
 }
+
 
     
 
@@ -56,11 +67,13 @@ h6{
 
 p{
     color: aquamarine;
-    font-size: 64pt;
+    font-size: 4pt;
     font-weight: bolder;
     margin-left: 300px;
+    border: 5px solid #fffb00;
 }
-}
+
+
     
 
 
