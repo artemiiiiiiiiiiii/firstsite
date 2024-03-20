@@ -95,9 +95,9 @@ p{
     box-shadow: 10px 10px 10px #beb9b9;
 }
 
-ul{
+ol{
   background-color: #4aff25;
-  list-style: square;
+  list-style-type: upper-latin;
   padding: 15px;
   margin: 5px;
 }
