@@ -120,6 +120,29 @@ img{
     border-radius: 0;
 }
 
-
-
-
+#container {
+    width: auto;
+}
+#header{
+    background: #d8d6e0;
+    height: 150px;
+}
+#content{
+    background: #2e18a7;
+    float: left;
+    width: 75%;
+    height: 250px;
+}
+#sidebar{
+    background: #d9ff00;
+    float: right;
+    width: 25%;
+    height: 250px;
+}
+#clear: {bothe
+}
+#footer{
+    margin-top: 4px;
+    background: #67d650;
+    height: 150px;
+}
