@@ -64,8 +64,13 @@ footer{
       width:auto; 
       height: auto;
    }
-      
 
+h3 {
+   font-family: "Bungee Spice";
+}
+p{
+   font-family: "Poppins";
+}
 
 
 
